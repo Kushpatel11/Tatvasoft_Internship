@@ -1,0 +1,28 @@
+F:\trainning\day 3 book\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+F:\trainning\day 3 book\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+F:\trainning\day 3 book\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.dll
+F:\trainning\day 3 book\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.dll
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+F:\trainning\day 3 book\BookAPI\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+C:\Users\HP\Downloads\Fayeza-Tatvasoft-master\Fayeza-Tatvasoft-master\BookAPI\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

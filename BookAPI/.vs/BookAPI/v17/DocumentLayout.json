@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\entities\\bookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\bookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\entities\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\migrations\\20240527073525_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240527073525_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\migrations\\20240526102336_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240526102336_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\bookapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\servicelayer\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\servicelayer\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\datalayer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|c:\\users\\hp\\downloads\\fayeza-tatvasoft-master\\fayeza-tatvasoft-master\\bookapi\\bookapi\\bookapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\bookapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:38:33.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDetail.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Entities\\BookDetail.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\BookDetail.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Entities\\BookDetail.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\BookDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:32:35.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:10:35.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240526102336_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:23:36.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\BookRepository.cs",
+              "RelativeToolTip": "DataLayer\\BookRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:53:28.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240527073525_Users.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Migrations\\20240527073525_Users.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240527073525_Users.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Migrations\\20240527073525_Users.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240527073525_Users.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:35:26.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Class1.cs",
+              "RelativeToolTip": "DataLayer\\Class1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:24:37.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\LoginRepository.cs",
+              "RelativeToolTip": "DataLayer\\LoginRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:16:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:19:14.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:52:53.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\appsettings.json",
+              "RelativeToolTip": "BookAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T09:30:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:46:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeToolTip": "BookAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:41:38.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\ServiceLayer\\BookServices.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\BookServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\ServiceLayer\\BookServices.cs",
+              "RelativeToolTip": "ServiceLayer\\BookServices.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAApwEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:48:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T11:01:40.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T04:03:21.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\ServiceLayer\\LoginService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\LoginService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\ServiceLayer\\LoginService.cs",
+              "RelativeToolTip": "ServiceLayer\\LoginService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:23:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\JwtService\\JWTService.cs",
+              "RelativeDocumentMoniker": "DataLayer\\JwtService\\JWTService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\DataLayer\\JwtService\\JWTService.cs",
+              "RelativeToolTip": "DataLayer\\JwtService\\JWTService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:42:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T09:54:30.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookAPI.http",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\BookAPI.http",
+              "RelativeDocumentMoniker": "BookAPI\\BookAPI.http",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Fayeza-Tatvasoft-master\\Fayeza-Tatvasoft-master\\BookAPI\\BookAPI\\BookAPI.http",
+              "RelativeToolTip": "BookAPI\\BookAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-26T09:26:38.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
